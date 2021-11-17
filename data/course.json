@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b5033236-cf8b-3447-6db3-284875508280"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science Writing and New Media: Science Writing for the Public",
+  "course_description": "This class is an introduction to writing about science\u2014including nature, medicine and technology\u2014for general readers. In our reading and writing we explore the craft of making scientific concepts, and the work of scientists, accessible to the public through articles and essays.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.035",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
